@@ -7,7 +7,7 @@ The sales data of electronic devices is used from US country to complete this ta
 I have used Python Pandas and Matplotlib liberaries to analyse, clean and plot the conclusions out of the data. 
 
 Task 1: To merge all the CSV files into a single file for better analysis. 
-Tas 2 : Cleaning the data: 
+Task 2 : Cleaning the data: 
         1. Drop NaN fields from data
         2. Changing the data type of some of columns
         3. Removing some rows based on a condition 
